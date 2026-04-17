@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BioAtlas</string>
+    <string name="title_activity_main">BioAtlas</string>
+    <string name="package_name">com.bioatlas.app</string>
+    <string name="custom_url_scheme">com.bioatlas.app</string>
+</resources>
